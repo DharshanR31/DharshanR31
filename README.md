@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshanr31&label=Profile%20views&color=0e75b6&style=flat" alt="dharshanr31" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/DharshanR31](Github.com/DharshanR31)
+- 👨‍💻 All of my projects are available at [GitHub](Github.com/DharshanR31)
 
 - 💬 Ask me about **Data mining, Data Visualization & Machine Learning**
 
-- 📫 How to reach me **dharshanramesh.31@gmail.com**
+- 📫 How to reach me [Gmail](dharshanramesh.31gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

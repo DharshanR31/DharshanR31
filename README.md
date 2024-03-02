@@ -1,7 +1,6 @@
 <h1 align="center">	:sunglasses:Hey! Nice to see you</h1>
 
-<h1 align="center">Hi 👋, I'm Dharshan R</h1>
-<h3 align="center">- Data Science & Machine Learning with AI</h3>
+<h1 align="center">Hi 👋, I'm Dharshan R - Data Science & Machine Learning with AI</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshanr31&label=Profile%20views&color=0e75b6&style=flat" alt="dharshanr31" /> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshanr31&label=Profile%20views&color=0e75b6&style=flat" alt="dharshanr31" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/DharshanR31](github.com/DharshanR31)
+- 👨‍💻 All of my projects are available at [github.com/DharshanR31](Github.com/DharshanR31)
 
 - 💬 Ask me about **Data mining, Data Visualization & Machine Learning**
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharshanr31&show_icons=true&locale=en" alt="dharshanr31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshanr31&" alt="dharshanr31" /></p>
-

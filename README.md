@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshanr31&label=Profile%20views&color=0e75b6&style=flat" alt="dharshanr31" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](Github.com/DharshanR31)
+- 👨‍💻 All of my projects are available at [GitHub]([Github.com/DharshanR31](https://github.com/DharshanR31?tab=repositories))
 
 - 💬 Ask me about **Data mining, Data Visualization & Machine Learning**
 
